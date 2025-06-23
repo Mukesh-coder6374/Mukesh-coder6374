@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Mukesh
 
-<!--
-**Mukesh-coder6374/Mukesh-coder6374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  Biomedical Engineering Student  
+🧠 Machine Learning | AI | Data Science | Java | Python  
+🔬 Passionate about bridging **tech and healthcare**  
 
-Here are some ideas to get you started:
+## 💼 Current Project
+🚑 Heart Disease Predictor using ML + Flask + SHAP  
+🌐 [Live Demo](https://heart-disease-predictor-m7pf.onrender.com)  
+📁 [GitHub Repo](https://github.com/Mukesh-coder6374/Heart-Disease-Predictor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- 💻 Languages: Python, Java, SQL, C++
+- 📊 Data Science: Pandas, NumPy, Scikit-learn, Matplotlib, SHAP
+- 🌐 Web: Flask, HTML, CSS
+- ☁️ Cloud: Google Cloud, Render, AWS (learning)
+
+## 🧠 What I'm Learning Now
+- Data Structures & Algorithms in Java  
+- Backend Development  
+- Machine Learning with Real Healthcare Data  
+- Git and GitHub for Collaboration  
+
+## 📫 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/
+mukesh1609)
+- 📧 Email: engineer6374@gmail.com  
+- 💻 GitHub: [Mukesh-coder6374](https://github.com/Mukesh-coder6374)
+
+---
+
+_“Let’s build a healthier world with code and care!”
